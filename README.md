@@ -112,11 +112,6 @@ export default {
 
 ##  Screenshots
 
-> Add your screenshots inside:
-> **`/src/assets/screenshots/`**
-
-Then replace the examples below:
-
 ###  Dashboard Home
 
 ```
