@@ -1,4 +1,3 @@
-
 ```md
 # 📊 Riya Dashboard Alea  
 A modern **React + Vite + Tailwind CSS** project for team management and dashboards.
@@ -28,24 +27,34 @@ A modern **React + Vite + Tailwind CSS** project for team management and dashboa
 ```
 
 riya-dashboard-alea/
+
 ├── public/
+
 ├── src/
+
 │   ├── assets/
+
 │   ├── components/
+
 │   ├── pages/
+
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 │   └── index.css
+
 ├── package.json
+
 ├── tailwind.config.cjs
+
 ├── postcss.config.cjs
+
 └── vite.config.js
 
-````
 
----
 
-## 🛠 Setup & Installation
+
 
 ### 1. Clone the repository
 ```sh
