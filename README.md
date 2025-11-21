@@ -110,32 +110,32 @@ export default {
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
 > Add your screenshots inside:
 > **`/src/assets/screenshots/`**
 
 Then replace the examples below:
 
-### 📸 Dashboard Home
+###  Dashboard Home
 
 ```
 ![Dashboard Home](./src/assets/screenshots/dashboard-home.png)
 ```
 
-### 📸 Task List Page
+###  Task List Page
 
 ```
 ![Task List](./src/assets/screenshots/task-list.png)
 ```
 
-### 📸 Task Details Page
+###  Task Details Page
 
 ```
 ![Task Details](./src/assets/screenshots/task-details.png)
 ```
 
-### 📸 Team Members Page
+###  Team Members Page
 
 ```
 ![Team Members](./src/assets/screenshots/team-members.png)
@@ -143,7 +143,7 @@ Then replace the examples below:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Dark mode toggle
 * Real backend integration (REST / GraphQL)
