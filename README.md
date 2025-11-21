@@ -115,19 +115,19 @@ export default {
 ###  Login Page
 
 ```
-![Login Page](src/assets/screenshots/login.png)
+![Login Page](src/assets/Screenshots/login.png)
 ```
 
 ###  Dashboard Home
 
 ```
-![Dashboard Home](src/assets/screenshots/dashboard-home.png)
+![Dashboard Home](src/assets/Screenshots/dashboard-home.png)
 ```
 
 ###  Task List Page
 
 ```
-![Task List](src/assets/screenshots/task-list.png)
+![Task List](src/assets/Screenshots/task-list.png)
 ```
 
 
@@ -135,7 +135,7 @@ export default {
 ###  Team Members Page
 
 ```
-![Team Members](src/assets/screenshots/team-members.png)
+![Team Members](src/assets/Screenshots/team-members.png)
 ```
 
 ---
