@@ -1,10 +1,10 @@
 ```md
-# 📊 Riya Dashboard Alea  
+#  Riya Dashboard Alea  
 A modern **React + Vite + Tailwind CSS** project for team management and dashboards.
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 - **React**
 - **Vite**
 - **Tailwind CSS (latest)**
@@ -13,7 +13,7 @@ A modern **React + Vite + Tailwind CSS** project for team management and dashboa
 
 ---
 
-## 🧰 Features
+##  Features
 - Dashboard home page showing overview metrics  
 - Task list with filters & search  
 - Task details view  
@@ -23,7 +23,7 @@ A modern **React + Vite + Tailwind CSS** project for team management and dashboa
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 ```
 
 riya-dashboard-alea/
@@ -76,7 +76,7 @@ npm run dev
 
 ---
 
-## 🎨 Tailwind CSS Setup
+##  Tailwind CSS Setup
 
 ### Installed using:
 
@@ -153,10 +153,8 @@ Then replace the examples below:
 
 ---
 
-## 📬 Author
+##  Author
 
 **Riya Sachdeva**
 
 
-```
-a Sachdeva
