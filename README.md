@@ -1,16 +1,157 @@
-# React + Vite
+```md
+#  Riya Dashboard Alea  
+A modern **React + Vite + Tailwind CSS** project for team management and dashboards.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+##  Tech Stack
+- **React**
+- **Vite**
+- **Tailwind CSS (latest)**
+- **PostCSS / Autoprefixer**
+- **Basic Routing / State Management**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  Features
+- Dashboard home page showing overview metrics  
+- Task list with filters & search  
+- Task details view  
+- Team members page  
+- Responsive layout  
+- Tailwind-based UI for fast, clean styling  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Folder Structure
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+riya-dashboard-alea/
+
+├── public/
+
+├── src/
+
+│   ├── assets/
+
+│   ├── components/
+
+│   ├── pages/
+
+│   ├── App.jsx
+
+│   ├── main.jsx
+
+│   └── index.css
+
+├── package.json
+
+├── tailwind.config.cjs
+
+├── postcss.config.cjs
+
+└── vite.config.js
+
+
+
+
+
+### 1. Clone the repository
+```sh
+git clone https://github.com/riyasachdeva1/riya-dashboard-alea.git
+cd riya-dashboard-alea
+````
+
+### 2. Install dependencies
+
+```sh
+npm install
+```
+
+### 3. Run the development server
+
+```sh
+npm run dev
+```
+
+---
+
+##  Tailwind CSS Setup
+
+### Installed using:
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+### `tailwind.config.cjs` includes:
+
+```js
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,jsx,ts,tsx}"
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
+### `src/index.css` contains:
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+---
+
+##  Screenshots
+
+###  Login Page
+
+```
+![Login Page](./src/assets/screenshots/login.png)
+```
+
+###  Dashboard Home
+
+```
+![Dashboard Home](./src/assets/screenshots/dashboard-home.png)
+```
+
+###  Task List Page
+
+```
+![Task List](./src/assets/screenshots/task-list.png)
+```
+
+
+
+###  Team Members Page
+
+```
+![Team Members](./src/assets/screenshots/team-members.png)
+```
+
+---
+
+## Future Enhancements
+
+* Dark mode toggle
+* Real backend integration (REST / GraphQL)
+* Drag & drop task management
+* User roles & permissions
+* Export reports
+
+---
+
+##  Author
+
+**Riya Sachdeva**
+
+
