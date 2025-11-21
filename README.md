@@ -112,6 +112,12 @@ export default {
 
 ##  Screenshots
 
+###  Login Page
+
+```
+![Login Page](./src/assets/screenshots/login.png)
+```
+
 ###  Dashboard Home
 
 ```
@@ -124,11 +130,7 @@ export default {
 ![Task List](./src/assets/screenshots/task-list.png)
 ```
 
-###  Task Details Page
 
-```
-![Task Details](./src/assets/screenshots/task-details.png)
-```
 
 ###  Team Members Page
 
