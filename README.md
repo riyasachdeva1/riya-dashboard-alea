@@ -19,17 +19,29 @@ A modern React + Vite + Tailwind CSS project for team management and dashboards.
 
 📁 Folder Structure  
 riya-dashboard-alea/
+
 ├── public/
+
 ├── src/
+
 │ ├── assets/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ ├── App.jsx
+
 │ ├── main.jsx
+
 │ └── index.css
+
 ├── package.json
+
 ├── tailwind.config.cjs
+
 ├── postcss.config.cjs
+
 └── vite.config.js
 
 
