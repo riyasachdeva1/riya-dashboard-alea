@@ -41,11 +41,10 @@ riya-dashboard-alea/
 
 
 2. Install dependencies:
-```bash
+
 npm install
 
 3.Run development server:
-```bash 
 npm run dev
 
 
@@ -94,6 +93,7 @@ Task Details Page
 Team Members Page
 
 ![Team Members](./src/assets/screenshots/team-members.png)
+
 
 
 
