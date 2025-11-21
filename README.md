@@ -110,33 +110,19 @@ export default {
 
 ---
 
-##  Screenshots
+## 🖼 Screenshots
 
-###  Login Page
-
-```
+### Login Page
 ![Login Page](src/assets/Screenshots/login.png)
-```
 
-###  Dashboard Home
-
-```
+### Dashboard Home
 ![Dashboard Home](src/assets/Screenshots/dashboard-home.png)
-```
 
-###  Task List Page
-
-```
+### Task List Page
 ![Task List](src/assets/Screenshots/task-list.png)
-```
 
-
-
-###  Team Members Page
-
-```
+### Team Members Page
 ![Team Members](src/assets/Screenshots/team-members.png)
-```
 
 ---
 
