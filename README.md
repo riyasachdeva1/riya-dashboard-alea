@@ -34,17 +34,18 @@ riya-dashboard-alea/
 
 
  🛠 Setup & Installation  
-1. Clone the repo  
+1. Clone the repo  : 
    ```bash
    git clone https://github.com/riyasachdeva1/riya-dashboard-alea.git
    cd riya-dashboard-alea
 
 
-2. Install dependencies
+2. Install dependencies:
+```bash
 npm install
 
-
-3.Run development server
+3.Run development server:
+```bash 
 npm run dev
 
 
